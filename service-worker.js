@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.3054780d6028600e311778bdcd6d4de8.js"
+  "/precache-manifest.31d4139c042ff60b96dc782185a49bdb.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ff6-companion-app"});
